@@ -15,5 +15,7 @@ install ghostsam and kernelsu next
 Go to Ghostsam, select KernelSU version, choose KernelSU Next 3.4.2, go back to the home screen, and press run or exploit. 
 go to kernelsu next -> setting -> untick Unmount modules  
 go to module -> press + -> select nomount module -> go to home -> press soft reboot -> after reboot ->  install AI module
+
+
 Changelog✨:
 Live blur added, UI optimized.
